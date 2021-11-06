@@ -18,6 +18,9 @@ public class Reader {
         this.phone = phone;
     }
 
+    public Reader(String name, String s, String faculty, String hb, String phone) {
+    }
+
     public String getName() {
         return name;
     }
